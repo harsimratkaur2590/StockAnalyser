@@ -20,7 +20,7 @@ crewai install
 ```
 ### Customizing
 
-**Add your `OPENAI_API_KEY` into the `.env` file**
+**Add your `OPENAI_API_KEY`,'SERPER_API_KEY','PUSHOVER_USER','PUSHOVER_TOKEN' into the `.env` file**
 
 - Modify `src/stock_picker/config/agents.yaml` to define your agents
 - Modify `src/stock_picker/config/tasks.yaml` to define your tasks
